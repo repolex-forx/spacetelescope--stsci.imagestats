@@ -1,0 +1,11 @@
+{
+  "org": "spacetelescope",
+  "repo": "stsci.imagestats",
+  "versions": [
+    {
+      "commit": "ed819da6425473bf3343ab6942182ad0d9b1db15",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:59:23.931115+00:00"
+    }
+  ]
+}
